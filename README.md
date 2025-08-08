@@ -26,3 +26,4 @@ This project demonstrates how to create a machine learning model that predicts m
 * 4)Train a regression model (e.g. Random forest Regressor).
 * 5)Evaluate on test set and interpret metrics.
 * 6)Input new user data to make premium predictions.
+for web application (streamlit) _ http://localhost:8501
